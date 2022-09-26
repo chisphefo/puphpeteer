@@ -60,8 +60,9 @@ This package requires PHP >= 7.3 and Node >= 8.
 Install it with these two command lines:
 
 ```shell
-composer require nesk/puphpeteer
+composer require chisphefo/puphpeteer
 npm install @nesk/puphpeteer
+npm i puppeteer
 ```
 
 ## Notable differences between PuPHPeteer and Puppeteer
