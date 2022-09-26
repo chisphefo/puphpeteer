@@ -1,4 +1,4 @@
-# PuPHPeteer
+# PuPHPeteer - Fork version, support Laravel 9
 
 <img src="https://user-images.githubusercontent.com/817508/100672192-dd258500-3361-11eb-845f-e8b5109752e4.png" style="max-width:100%;" width="190px" align="right">
 
